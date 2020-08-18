@@ -1,0 +1,39 @@
+* {
+    margin : 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgba(121, 195, 219, 0.466)
+    ;
+    color: rgb(206, 184, 184);
+    text-shadow: 1px 2px black;
+    font-size: 1.5rem;
+}
+
+form {
+    margin: 1%;
+    
+}
+
+.inputField{
+    width: 350px;
+    height: 58px;
+    border: 2px solid darkblue;
+    border-radius: 8px;
+    margin: 1%;
+    padding: 1%;
+    font-size: 24px;
+}
+
+button {
+    width: 100px;
+    height: 55px;
+    border-radius: 5px;
+    margin: 1%;
+    outline: none;
+    border: 2px solid darkblue;
+    font-size: 24px;
+}
+
+
+

@@ -1,0 +1,21 @@
+table {
+    border: 1px solid black;
+    margin: 1%;
+    font-size: 34px;
+    text-align: center;
+    width: 50%;
+}
+
+
+th {
+    background-color: rgba(0, 0, 255, 0.555);
+    border: 1px solid black;
+    padding: 1%;
+}
+
+td {
+    border: 1px solid black;
+    padding: 1%;
+    color: rgb(47, 44, 44);
+    text-shadow: none;
+}
